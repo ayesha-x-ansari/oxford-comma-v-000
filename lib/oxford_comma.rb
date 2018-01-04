@@ -5,6 +5,5 @@ def oxford_comma(array)
   elsif array.length > 2          # when length 0f array is greter than 2 only then excecute this step
     array[-1].insert(0, "and ")   # -1 means last array insert adds and just before the last element
   end
-  array.join(", ")                #  convert to string and add coma between the element 
+  array.join(", ")                #  convert to string and add coma between the element
 end
-
