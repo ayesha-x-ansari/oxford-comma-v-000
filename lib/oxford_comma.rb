@@ -1,6 +1,8 @@
 #array = ["fiddleheads","okra","kohlrabi","dddddddddd"]
 array = ["kiwi", "durian"]
 def oxford_comma(array)
+  len = array.length
+  puts len
   if array.length == 2
     puts "dddd"
     return "#{array[0]} and #{array[1]}"
