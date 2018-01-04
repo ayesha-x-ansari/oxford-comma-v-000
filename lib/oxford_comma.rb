@@ -7,8 +7,8 @@ def oxford_comma(array)
   if array.length == 2
     puts "dddd"
     return "#{array[0]} and #{array[1]}"
-#  elsif array.length > 2
-  else
+  elsif array.length > 2
+#  else
     puts array.length
     array[-1].insert(1, "and ")
   end
