@@ -1,5 +1,5 @@
 #array = ["fiddleheads","okra","kohlrabi","dddddddddd"]
-array = ["kiwi", "durian"]
+array = ["kiwi", "durian", "fffff"]
 def oxford_comma(array)
   len = array.length
   puts len
@@ -14,4 +14,3 @@ def oxford_comma(array)
   puts arr
   puts "ffffff"
 end
-
