@@ -10,6 +10,7 @@ def oxford_comma(array)
     puts array.length
     array[-1].insert(0, "and ")
   end
-  array.join(", ")
+   arr =array.join(", ")
+  puts arr
   puts "ffffff"
 end
