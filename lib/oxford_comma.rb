@@ -1,5 +1,6 @@
 #array = ["fiddleheads","okra","kohlrabi","dddddddddd"]
 array = ["kiwi", "durian", "fffff"]
+array = ["sarah"]
 def oxford_comma(array)
   len = array.length
   puts len
