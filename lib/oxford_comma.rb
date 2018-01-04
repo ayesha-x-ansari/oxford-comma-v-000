@@ -14,3 +14,7 @@ def oxford_comma(array)
   puts arr
   puts "ffffff"
 end
+
+ oxford_comma(array)
+
+ 
